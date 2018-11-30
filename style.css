@@ -1,0 +1,59 @@
+h1 {
+    color:rgb(255, 251, 0);
+    margin: 75px;
+    padding: 40px;
+    text-align: center;
+}
+
+body {
+    background-image: url("dragon.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(16, 192, 192);
+}
+
+
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px;
+    background-color: rgb(16, 192, 192);
+    text-decoration: none;
+    color: rgb(255, 0, 0)
+}
+
+
+
+nav ul li a:hover {
+    background-color: rgb(30, 255, 0);
+    color: rgb(111, 0, 255)
+}
+
+
+
+
+p{
+    color:rgb(30, 255, 0)
+}
+
+
+
+ul li {
+    color: rgb(30, 255, 0)
+}
